@@ -1,0 +1,12 @@
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\ChuckNorris.Core.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\ChuckNorris.Core.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\Autofac.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\ChuckNorris.Infra.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\Newtonsoft.Json.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\ChuckNorris.Infra.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\Autofac.xml
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\bin\Debug\Newtonsoft.Json.xml
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\obj\Debug\ChuckNorris.Core.csprojResolveAssemblyReference.cache
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\obj\Debug\ChuckNorris.Core.csproj.CoreCompileInputs.cache
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\obj\Debug\ChuckNorris.Core.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Core\obj\Debug\ChuckNorris.Core.pdb

@@ -1,0 +1,8 @@
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\bin\Debug\ChuckNorris.Infra.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\bin\Debug\ChuckNorris.Infra.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\obj\Debug\ChuckNorris.Infra.csprojResolveAssemblyReference.cache
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\obj\Debug\ChuckNorris.Infra.csproj.CoreCompileInputs.cache
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\obj\Debug\ChuckNorris.Infra.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\obj\Debug\ChuckNorris.Infra.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Infra\bin\Debug\Newtonsoft.Json.xml

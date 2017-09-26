@@ -1,0 +1,6 @@
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\bin\Debug\ChuckNorris.Domain.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\bin\Debug\ChuckNorris.Domain.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\obj\Debug\ChuckNorris.Domain.csproj.CoreCompileInputs.cache
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\obj\Debug\ChuckNorris.Domain.dll
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\obj\Debug\ChuckNorris.Domain.pdb
+C:\git repos\ChuckNorris\ChuckNorris\ChuckNorris.Domain\obj\Debug\ChuckNorris.Domain.csprojResolveAssemblyReference.cache
